@@ -1,0 +1,1 @@
+![Lógica de programação essencial](https://user-images.githubusercontent.com/92355749/164145958-4b97fb3e-9c4a-4ddf-b108-ab7d2480a348.jpg)

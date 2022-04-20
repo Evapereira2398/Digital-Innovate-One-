@@ -1,0 +1,1 @@
+![Introdução ao Git e ao GitHub](https://user-images.githubusercontent.com/92355749/164145839-eeb80def-9d86-43d2-b609-7278880da9fb.jpg)
